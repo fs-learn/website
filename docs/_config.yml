@@ -2,14 +2,14 @@ title: Finley Fresh # Shown in header on pages with full_logo: true
 short_logo: Finley Fresh. # Shown in header on all pages by default unless full_logo: true is set
 description: > # The description for your site
   A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
-url: "https://github.com/fs-learn/website" # Site base URL
+url: "https://fs-learn.github.io/" # Site base URL
 
 author:
   name: Finley Sheppard
-  github: fs-learn/website # GitHub username, used for GitHub icon on the top right
+  github: fs-learn # GitHub username, used for GitHub icon on the top right
   linkedin: ritijjain # Your LinkedIn profile url name, used for LinkedIn icon on the top right
-  email: example@example.com # Used for email icon on the top right
-  homepage: https://teacher-fin.com # This links to your name in post meta
+  email: fin.sheppard@gmail.com # Used for email icon on the top right
+  homepage: https://fs-learn.github.io/ # This links to your name in post meta
   twitter: # Twitter username, used for Twitter Card Analytics 
 
 disqus_name: # Setting this will turn on Disqus comments
